@@ -1,0 +1,19 @@
+:root {
+  --main-bg-color: rgb(255, 212, 169);
+  --shadow-color: rgb(57, 57, 57);
+  --first-theme-color: #fff;
+  --second-theme-color: rgb(51, 51, 88);
+  --input-icons-background: #e3f4fc;
+  --input-icons-color: #4d6571;
+  --third-theme-color: #e3db38;
+}
+* {
+  box-sizing: border-box;
+}
+*:focus {
+  outline: none;
+}
+body {
+  margin: 0;
+}
+
